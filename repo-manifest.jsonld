@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/scrapinghub-entrypoint-scrapy/commit/bf9632c78355b545126363ce557106c1b9c3bb54",
       "git:hexsha": "bf9632c78355b545126363ce557106c1b9c3bb54",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T18:05:27.972634+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/scrapinghub-entrypoint-scrapy/commit/a37bbc4e5ab9a4ea96b7c5601fecc630429712ed",
